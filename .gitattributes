@@ -1,0 +1,7 @@
+﻿* text=auto
+*.pck binary
+*.wasm binary
+*.png binary
+*.js text eol=lf
+*.html text eol=lf
+
